@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtaGuneser
 - 👀 I’m interested in Frontend Developer
-- 🔭 I’m currently working on JavaScript, HTML, CSS
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on JavaScript, HTML, CSS, React
+- 🌱 I’m currently learning Redux, Typescript
 - 📫 How to reach me : ataguneser@hotmail.com
 
 <!---
