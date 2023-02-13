@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning Redux, Typescript
 - 📫 How to reach me : ataguneser@hotmail.com
 
+🚀 Skills:
+Html Css Javascript Java Git Python React Bootstrap JQuery Node.JS Tailwind CSS
+
 <!---
 AtaGuneser/AtaGuneser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
