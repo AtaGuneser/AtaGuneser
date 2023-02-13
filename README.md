@@ -7,7 +7,7 @@
 - 📫 How to reach me : ataguneser@hotmail.com
 
 🚀 Skills:
-Html Css Javascript Java Git Python React Bootstrap JQuery Node.JS Tailwind CSS
+Html Css Javascript Git React Bootstrap Tailwind CSS
 
 <!---
 AtaGuneser/AtaGuneser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
