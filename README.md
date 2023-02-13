@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ata+Guneser)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @AtaGuneser
 - 👀 I’m interested in Frontend Developer
 - 🔭 I’m currently working on JavaScript, HTML, CSS, React
