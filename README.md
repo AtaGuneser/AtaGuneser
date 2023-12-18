@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ata+Guneser++Front+End+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @AtaGuneser
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Frontend Development
 - 🔭 I’m currently working on JavaScript, HTML, CSS, ReactJS
 - 🌱 I’m currently learning Redux, Typescript, NextJS and ThreeJS
 - 📫 How to reach me : ataguneser@hotmail.com
