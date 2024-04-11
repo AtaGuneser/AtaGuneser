@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @AtaGuneser
 - 👀 I’m interested in Frontend Development
 - 🔭 I’m currently working on JavaScript, HTML, CSS, ReactJS
-- 🌱 I’m currently learning Redux, Typescript, NextJS and ThreeJS
+- 🌱 I’m currently learning Redux, Typescript, NextJS, ThreeJS and React Native
 - 📫 How to reach me : ataguneser@hotmail.com
 
 🚀 Skills:
