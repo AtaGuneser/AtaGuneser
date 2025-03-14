@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ata+Guneser++Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ata+Guneser++Full+Stack+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @AtaGuneser
-- 👀 I’m interested in Frontend Development
-- 🔭 I’m currently working on JavaScript, HTML, CSS, ReactJS
-- 🌱 I’m currently learning Redux, Typescript, NextJS, ThreeJS and React Native
+- 👀 I’m interested in Fullstack Development
+- 🔭 I’m currently working on JavaScript, HTML, CSS, ReactJS, NodeJS, Typescript
+- 🌱 I’m currently learning React Native and Expo
 - 📫 How to reach me : ataguneser@hotmail.com
 
-🚀 Skills:
-Html Css Bootstrap TailwindCSS Javascript Git ReactJS
+
 
 <!---
 AtaGuneser/AtaGuneser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
